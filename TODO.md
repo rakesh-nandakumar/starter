@@ -1,9 +1,8 @@
 # TODO List
 
-- [x] Update dependencies
-- [x] Implement caching
-- [ ] Implement user authentication
-- [ ] Add input validation
-- [ ] Add logging
+- [ ] Add error handling
+- [x] Implement user authentication
+- [ ] Update documentation
+- [ ] Optimize database queries
 
 Last updated: 2025-06-19 12:32
