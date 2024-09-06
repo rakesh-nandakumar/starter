@@ -1,9 +1,10 @@
 # TODO List
 
-- [ ] Update dependencies
-- [x] Update documentation
+- [x] Write unit tests
+- [ ] Update documentation
+- [ ] Add error handling
 - [ ] Add logging
-- [x] Add error handling
-- [ ] Write unit tests
+- [x] Optimize database queries
+- [ ] Update dependencies
 
 Last updated: 2025-06-19 15:34
