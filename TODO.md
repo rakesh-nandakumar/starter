@@ -1,9 +1,7 @@
 # TODO List
 
-- [ ] Implement user authentication
-- [x] Add logging
 - [ ] Implement caching
-- [ ] Add error handling
+- [ ] Implement user authentication
 - [ ] Create deployment scripts
 - [ ] Update documentation
 
