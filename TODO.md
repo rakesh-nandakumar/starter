@@ -1,9 +1,10 @@
 # TODO List
 
-- [x] Update dependencies
-- [ ] Implement caching
 - [x] Add error handling
-- [ ] Add input validation
+- [ ] Optimize database queries
+- [ ] Implement caching
+- [ ] Add logging
 - [ ] Update documentation
+- [ ] Create deployment scripts
 
 Last updated: 2025-06-19 15:24
