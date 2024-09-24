@@ -1,7 +1,8 @@
 # TODO List
 
-- [ ] Implement user authentication
 - [ ] Update documentation
-- [x] Add error handling
+- [x] Implement user authentication
+- [ ] Add logging
+- [x] Update dependencies
 
 Last updated: 2025-06-19 02:57
