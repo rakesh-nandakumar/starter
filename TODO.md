@@ -1,8 +1,10 @@
 # TODO List
 
-- [ ] Write unit tests
-- [x] Create deployment scripts
+- [ ] Add logging
+- [x] Write unit tests
+- [x] Update documentation
 - [ ] Update dependencies
-- [x] Add input validation
+- [ ] Optimize database queries
+- [ ] Create deployment scripts
 
 Last updated: 2025-06-19 03:14
