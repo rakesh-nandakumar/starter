@@ -1,7 +1,7 @@
 # TODO List
 
-- [x] Write unit tests
 - [ ] Implement user authentication
-- [x] Add logging
+- [ ] Update documentation
+- [x] Add error handling
 
 Last updated: 2025-06-19 02:57
