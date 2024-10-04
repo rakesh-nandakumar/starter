@@ -1,8 +1,7 @@
 # TODO List
 
-- [ ] Add error handling
-- [ ] Update documentation
-- [ ] Implement user authentication
-- [ ] Implement caching
+- [ ] Optimize database queries
+- [ ] Write unit tests
+- [x] Add error handling
 
 Last updated: 2025-06-19 12:31
