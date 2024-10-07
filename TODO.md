@@ -1,8 +1,7 @@
 # TODO List
 
-- [ ] Update dependencies
 - [ ] Write unit tests
-- [x] Add logging
-- [ ] Implement caching
+- [ ] Update documentation
+- [x] Create deployment scripts
 
 Last updated: 2025-06-19 15:34
