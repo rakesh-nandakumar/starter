@@ -1,10 +1,9 @@
 # TODO List
 
-- [x] Update documentation
-- [x] Implement user authentication
-- [ ] Optimize database queries
-- [ ] Update dependencies
-- [ ] Add error handling
-- [ ] Add input validation
+- [ ] Implement caching
+- [ ] Create deployment scripts
+- [ ] Implement user authentication
+- [ ] Write unit tests
+- [ ] Add logging
 
 Last updated: 2025-06-19 12:31
