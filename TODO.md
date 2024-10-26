@@ -1,7 +1,7 @@
 # TODO List
 
-- [x] Optimize database queries
-- [ ] Add input validation
-- [ ] Update dependencies
+- [ ] Update documentation
+- [x] Add input validation
+- [x] Write unit tests
 
-Last updated: 2025-06-19 16:32
+Last updated: 2025-06-19 16:33
