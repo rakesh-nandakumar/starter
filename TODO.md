@@ -1,8 +1,10 @@
 # TODO List
 
+- [x] Implement user authentication
+- [ ] Update dependencies
+- [ ] Add error handling
 - [ ] Update documentation
-- [ ] Write unit tests
-- [ ] Implement caching
 - [ ] Add logging
+- [ ] Add input validation
 
 Last updated: 2025-06-19 03:02
