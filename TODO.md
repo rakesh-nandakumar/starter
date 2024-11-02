@@ -1,8 +1,9 @@
 # TODO List
 
-- [x] Implement user authentication
-- [x] Write unit tests
-- [ ] Update dependencies
-- [x] Create deployment scripts
+- [ ] Write unit tests
+- [ ] Create deployment scripts
+- [ ] Update documentation
+- [ ] Implement user authentication
+- [ ] Implement caching
 
 Last updated: 2025-06-19 02:57
