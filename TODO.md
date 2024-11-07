@@ -1,8 +1,7 @@
 # TODO List
 
-- [ ] Add error handling
+- [x] Add input validation
 - [ ] Create deployment scripts
-- [x] Write unit tests
-- [ ] Add logging
+- [ ] Update dependencies
 
 Last updated: 2025-06-19 03:02
