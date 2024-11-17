@@ -1,9 +1,10 @@
 # TODO List
 
-- [ ] Add logging
+- [x] Add error handling
 - [x] Implement caching
-- [ ] Write unit tests
-- [ ] Optimize database queries
-- [x] Implement user authentication
+- [ ] Add input validation
+- [ ] Add logging
+- [ ] Implement user authentication
+- [ ] Update documentation
 
 Last updated: 2025-06-19 02:50
