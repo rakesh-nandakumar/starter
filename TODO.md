@@ -1,7 +1,7 @@
 # TODO List
 
-- [x] Implement caching
-- [ ] Update documentation
+- [x] Add input validation
 - [ ] Add logging
+- [ ] Write unit tests
 
 Last updated: 2025-06-19 03:02
