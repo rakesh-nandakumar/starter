@@ -1,7 +1,8 @@
 # TODO List
 
+- [ ] Implement caching
 - [ ] Add error handling
-- [ ] Add logging
-- [x] Update documentation
+- [ ] Write unit tests
+- [ ] Update dependencies
 
 Last updated: 2025-06-19 15:32
