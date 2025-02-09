@@ -1,9 +1,8 @@
 # TODO List
 
-- [ ] Add logging
 - [ ] Optimize database queries
-- [ ] Add input validation
-- [ ] Update documentation
-- [ ] Implement user authentication
+- [ ] Add error handling
+- [x] Create deployment scripts
+- [ ] Update dependencies
 
 Last updated: 2025-06-19 02:56
