@@ -1,7 +1,7 @@
 # TODO List
 
-- [ ] Update documentation
 - [x] Create deployment scripts
-- [ ] Add logging
+- [ ] Optimize database queries
+- [ ] Implement caching
 
 Last updated: 2025-06-19 15:32
