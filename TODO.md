@@ -1,7 +1,7 @@
 # TODO List
 
-- [x] Optimize database queries
-- [x] Add error handling
-- [x] Add logging
+- [ ] Add logging
+- [ ] Update documentation
+- [ ] Optimize database queries
 
 Last updated: 2025-06-19 15:23
