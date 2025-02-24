@@ -1,7 +1,9 @@
 # TODO List
 
-- [x] Write unit tests
-- [x] Add logging
-- [ ] Add input validation
+- [x] Create deployment scripts
+- [x] Update documentation
+- [ ] Implement user authentication
+- [x] Implement caching
+- [x] Add input validation
 
 Last updated: 2025-06-19 12:30
