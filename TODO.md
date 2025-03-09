@@ -1,10 +1,8 @@
 # TODO List
 
-- [x] Optimize database queries
-- [ ] Add logging
+- [ ] Optimize database queries
 - [ ] Write unit tests
-- [ ] Update dependencies
-- [ ] Add error handling
 - [ ] Add input validation
+- [x] Add logging
 
 Last updated: 2025-06-19 02:56
