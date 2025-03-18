@@ -1,8 +1,8 @@
 # TODO List
 
-- [x] Optimize database queries
+- [x] Write unit tests
+- [ ] Update documentation
 - [ ] Implement user authentication
-- [ ] Add input validation
-- [x] Update dependencies
+- [ ] Implement caching
 
 Last updated: 2025-06-19 02:56
