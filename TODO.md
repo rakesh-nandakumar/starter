@@ -1,10 +1,9 @@
 # TODO List
 
-- [ ] Create deployment scripts
-- [x] Add error handling
-- [ ] Implement user authentication
-- [ ] Add input validation
-- [x] Add logging
 - [ ] Update dependencies
+- [ ] Add input validation
+- [ ] Implement caching
+- [x] Add error handling
+- [ ] Add logging
 
 Last updated: 2025-06-19 03:01
