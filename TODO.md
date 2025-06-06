@@ -1,7 +1,8 @@
 # TODO List
 
-- [ ] Add input validation
+- [ ] Implement caching
 - [ ] Add logging
-- [x] Add error handling
+- [ ] Create deployment scripts
+- [ ] Add input validation
 
 Last updated: 2025-06-19 02:55
