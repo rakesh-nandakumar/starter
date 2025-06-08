@@ -1,0 +1,12 @@
+{
+    "development": {
+        "debug": true,
+        "database_url": "sqlite:///dev.db",
+        "cache_timeout": 300
+    },
+    "production": {
+        "debug": false,
+        "database_url": "postgresql://user:pass@localhost/prod",
+        "cache_timeout": 3600
+    }
+}
