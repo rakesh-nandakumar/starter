@@ -1,5 +1,5 @@
 # Project Setup Guide - Version 30
-Updated: 2025-06-19-16-00
+Updated: 2025-06-19-16-09
 
 ## Prerequisites
 - Python 3.8+
