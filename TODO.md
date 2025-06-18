@@ -1,8 +1,8 @@
 # TODO List
 
-- [ ] Optimize database queries
-- [ ] Add input validation
-- [ ] Update dependencies
+- [ ] Create deployment scripts
 - [ ] Implement caching
+- [x] Update documentation
+- [ ] Update dependencies
 
-Last updated: 2025-06-19 15:36
+Last updated: 2025-06-19 15:59
